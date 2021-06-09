@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/ichbinelena.github.io\/UNITE\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/elena\/unite\/unite"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/ichbinelena.github.io\/UNITE\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/elena\/unite\/unite"
                 }],
          "type":"tilelayer",
          "visible":true,
